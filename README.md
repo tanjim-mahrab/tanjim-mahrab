@@ -1,4 +1,4 @@
-<h1 align="left"> Tanjim Mahrab</h1>
+<h1 align="left">💫 Tanjim Mahrab</h1>
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Flutter_Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Developer" /></a>
@@ -63,24 +63,24 @@ I'm a Flutter Developer specializing in cross-platform mobile applications, AI-p
 
 <p align="left">
   <a href="https://youtu.be/6Zda0PW4wyE">
-    <img src="https://github-readme-youtube-cards.vercel.app/api?videoid=6Zda0PW4wyE" width="250" />
+    <img src="https://ytcards.demolab.com/?id=6Zda0PW4wyE&title=জীবনে+একবার+হলেও+গল্পটি+আপনার+শোনা+দরকার+%7C+Monologue" width="250" />
   </a>
   <a href="https://youtu.be/jlMCduzPNIg">
-    <img src="https://github-readme-youtube-cards.vercel.app/api?videoid=jlMCduzPNIg" width="250" />
+    <img src="https://ytcards.demolab.com/?id=jlMCduzPNIg&title=Franz+Kafka%27s+Metamorphosis+%7C+Monologue" width="250" />
   </a>
   <a href="https://youtu.be/DTtg7WrNlnY">
-    <img src="https://github-readme-youtube-cards.vercel.app/api?videoid=DTtg7WrNlnY" width="250" />
+    <img src="https://ytcards.demolab.com/?id=DTtg7WrNlnY&title=Franz+Kafka%27s+A+Hunger+Artist+%7C+Monologue" width="250" />
   </a>
 </p>
 <p align="left">
   <a href="https://youtu.be/wOD5TvBg1P0">
-    <img src="https://github-readme-youtube-cards.vercel.app/api?videoid=wOD5TvBg1P0" width="250" />
+    <img src="https://ytcards.demolab.com/?id=wOD5TvBg1P0&title=Fyodor+Dostoevsky%27s+Notes+from+Underground+%7C+Part+1+%7C+Monologue" width="250" />
   </a>
   <a href="https://youtu.be/b_hu7LlEKyk">
-    <img src="https://github-readme-youtube-cards.vercel.app/api?videoid=b_hu7LlEKyk" width="250" />
+    <img src="https://ytcards.demolab.com/?id=b_hu7LlEKyk&title=জীবনের+অর্থ+কী%3F+শূন্যতা+না+মুক্তি+%7C+Nihilism+Unveiling" width="250" />
   </a>
   <a href="https://youtu.be/KKWAK0AGmL0">
-    <img src="https://github-readme-youtube-cards.vercel.app/api?videoid=KKWAK0AGmL0" width="250" />
+    <img src="https://ytcards.demolab.com/?id=KKWAK0AGmL0&title=ডাটায়+ওজন+কত%3F+১+টেরাবাইট+ডাটায়+অবিশ্বাস্য+ভর%21" width="250" />
   </a>
 </p>
 
