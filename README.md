@@ -1,4 +1,4 @@
-<h1 align="left">💫 Tanjim Mahrab</h1>
+<h1 align="left"> Tanjim Mahrab</h1>
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Flutter_Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Developer" /></a>
