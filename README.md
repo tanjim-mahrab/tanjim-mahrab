@@ -63,7 +63,7 @@ I'm a Flutter Developer specializing in cross-platform mobile applications, AI-p
 
 <p align="left">
   <a href="https://youtu.be/6Zda0PW4wyE">
-    <img src="https://ytcards.demolab.com/?id=6Zda0PW4wyE&title=জীবনে+একবার+হলেও+গল্পটি+আপনার+শোনা+দরকার+%7C+Monologue" width="250" />
+    <img src="https://ytcards.demolab.com/?id=6Zda0PW4wyE&title=A+Story+You+Must+Hear+In+Your+Life+%7C+Monologue" width="250" />
   </a>
   <a href="https://youtu.be/jlMCduzPNIg">
     <img src="https://ytcards.demolab.com/?id=jlMCduzPNIg&title=Franz+Kafka%27s+Metamorphosis+%7C+Monologue" width="250" />
@@ -77,10 +77,10 @@ I'm a Flutter Developer specializing in cross-platform mobile applications, AI-p
     <img src="https://ytcards.demolab.com/?id=wOD5TvBg1P0&title=Fyodor+Dostoevsky%27s+Notes+from+Underground+%7C+Part+1+%7C+Monologue" width="250" />
   </a>
   <a href="https://youtu.be/b_hu7LlEKyk">
-    <img src="https://ytcards.demolab.com/?id=b_hu7LlEKyk&title=জীবনের+অর্থ+কী%3F+শূন্যতা+না+মুক্তি+%7C+Nihilism+Unveiling" width="250" />
+    <img src="https://ytcards.demolab.com/?id=b_hu7LlEKyk&title=What+is+the+Meaning+of+Life%3F+Emptiness+or+Freedom+%7C+Nihilism+Unveiling" width="250" />
   </a>
   <a href="https://youtu.be/KKWAK0AGmL0">
-    <img src="https://ytcards.demolab.com/?id=KKWAK0AGmL0&title=ডাটায়+ওজন+কত%3F+১+টেরাবাইট+ডাটায়+অবিশ্বাস্য+ভর%21" width="250" />
+    <img src="https://ytcards.demolab.com/?id=KKWAK0AGmL0&title=What+is+the+Weight+of+Data%3F+The+Incredible+Mass+of+1+Terabyte+Data%21" width="250" />
   </a>
 </p>
 
